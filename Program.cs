@@ -6,7 +6,7 @@ namespace Uni_Assignment2_OOP
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Hello Git!");
         }
     }
 }
