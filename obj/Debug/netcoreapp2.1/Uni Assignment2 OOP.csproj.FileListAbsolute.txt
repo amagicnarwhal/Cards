@@ -1,0 +1,11 @@
+C:\Users\Odie\Desktop\Uni Assignment2 OOP\bin\Debug\netcoreapp2.1\Uni Assignment2 OOP.deps.json
+C:\Users\Odie\Desktop\Uni Assignment2 OOP\bin\Debug\netcoreapp2.1\Uni Assignment2 OOP.runtimeconfig.json
+C:\Users\Odie\Desktop\Uni Assignment2 OOP\bin\Debug\netcoreapp2.1\Uni Assignment2 OOP.runtimeconfig.dev.json
+C:\Users\Odie\Desktop\Uni Assignment2 OOP\bin\Debug\netcoreapp2.1\Uni Assignment2 OOP.dll
+C:\Users\Odie\Desktop\Uni Assignment2 OOP\bin\Debug\netcoreapp2.1\Uni Assignment2 OOP.pdb
+C:\Users\Odie\Desktop\Uni Assignment2 OOP\obj\Debug\netcoreapp2.1\Uni Assignment2 OOP.csprojAssemblyReference.cache
+C:\Users\Odie\Desktop\Uni Assignment2 OOP\obj\Debug\netcoreapp2.1\Uni Assignment2 OOP.csproj.CoreCompileInputs.cache
+C:\Users\Odie\Desktop\Uni Assignment2 OOP\obj\Debug\netcoreapp2.1\Uni Assignment2 OOP.AssemblyInfoInputs.cache
+C:\Users\Odie\Desktop\Uni Assignment2 OOP\obj\Debug\netcoreapp2.1\Uni Assignment2 OOP.AssemblyInfo.cs
+C:\Users\Odie\Desktop\Uni Assignment2 OOP\obj\Debug\netcoreapp2.1\Uni Assignment2 OOP.dll
+C:\Users\Odie\Desktop\Uni Assignment2 OOP\obj\Debug\netcoreapp2.1\Uni Assignment2 OOP.pdb
